@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: tarea#2p2, Configuration: Debug Any CPU ------
+1>  tarea#2p2 -> C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\bin\Debug\tarea#2p2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:25 p. m. and took 00.631 seconds ==========

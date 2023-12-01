@@ -1,0 +1,7 @@
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\bin\Debug\if_else_cs.exe.config
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\bin\Debug\if_else_cs.exe
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\bin\Debug\if_else_cs.pdb
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\obj\Debug\if_else_cs.csproj.AssemblyReference.cache
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\obj\Debug\if_else_cs.csproj.CoreCompileInputs.cache
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\obj\Debug\if_else_cs.exe
+C:\Users\luis4\Documents\trabajo1\if_else_cs\if_else_cs\obj\Debug\if_else_cs.pdb

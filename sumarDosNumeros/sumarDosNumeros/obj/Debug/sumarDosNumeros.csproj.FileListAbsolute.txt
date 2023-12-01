@@ -1,0 +1,7 @@
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\obj\Debug\sumarDosNumeros.csproj.AssemblyReference.cache
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\obj\Debug\sumarDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\bin\Debug\sumarDosNumeros.exe.config
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\bin\Debug\sumarDosNumeros.exe
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\bin\Debug\sumarDosNumeros.pdb
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\obj\Debug\sumarDosNumeros.exe
+C:\Users\luis4\Documents\trabajo1\sumarDosNumeros\sumarDosNumeros\obj\Debug\sumarDosNumeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\bin\Debug\tarea#2p2.exe.config
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\bin\Debug\tarea#2p2.exe
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\bin\Debug\tarea#2p2.pdb
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\obj\Debug\tarea#2p2.csproj.AssemblyReference.cache
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\obj\Debug\tarea#2p2.csproj.CoreCompileInputs.cache
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\obj\Debug\tarea#2p2.exe
+C:\Users\luis4\Documents\trabajo1\tarea#2p2\tarea#2p2\obj\Debug\tarea#2p2.pdb

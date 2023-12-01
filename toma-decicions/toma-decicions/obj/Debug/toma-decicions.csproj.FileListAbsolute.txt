@@ -1,0 +1,7 @@
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\bin\Debug\toma-decicions.exe.config
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\bin\Debug\toma-decicions.exe
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\bin\Debug\toma-decicions.pdb
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\obj\Debug\toma-decicions.csproj.AssemblyReference.cache
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\obj\Debug\toma-decicions.csproj.CoreCompileInputs.cache
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\obj\Debug\toma-decicions.exe
+C:\Users\luis4\Documents\trabajo1\toma-decicions\toma-decicions\obj\Debug\toma-decicions.pdb
